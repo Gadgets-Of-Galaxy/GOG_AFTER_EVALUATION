@@ -1,4 +1,4 @@
-# E-commerce Demo
+# E-commerce Gadgets of Galaxy Demo
 
 This is a sample application that demonstrates an E-commerce website using the nodejs. The application loads 
 products from MongoDB database and displays them. The loading page directly takes to home page. Users can register
@@ -14,7 +14,7 @@ To get started  you can simply clone this `GOG` repository and install the depen
 Clone the `GOG` repository using git:
 
 ```bash
-git clone https://github.com/ratracegrad/ecommerce-demo
+git clone 
 cd GOG
 ```
 
@@ -23,9 +23,17 @@ Install dependencies with this command:
 npm install
 ```
 
+Change the connection string(mongo db) with your personal one and add the products data into it according to schema given in models.
+
 Run the application with this command:
 ```bash
 npm start
 ```
+Used:
+nodejs
+mongodb
+with ejs formats
+
+
 
 
